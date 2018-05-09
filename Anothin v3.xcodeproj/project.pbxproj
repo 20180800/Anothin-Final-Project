@@ -12,6 +12,7 @@
 		7065258B209CD23B004EB29D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70652589209CD23B004EB29D /* Main.storyboard */; };
 		7065258D209CD23B004EB29D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7065258C209CD23B004EB29D /* Assets.xcassets */; };
 		70652590209CD23B004EB29D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7065258E209CD23B004EB29D /* LaunchScreen.storyboard */; };
+		70925D2D20A0C40400A475AD /* skate.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 70925D2C20A0C40400A475AD /* skate.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		7065258C209CD23B004EB29D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7065258F209CD23B004EB29D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		70652591209CD23B004EB29D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		70925D2C20A0C40400A475AD /* skate.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = skate.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				70652585209CD23B004EB29D /* AppDelegate.swift */,
 				70652587209CD23B004EB29D /* ViewController.swift */,
 				70652589209CD23B004EB29D /* Main.storyboard */,
+				70925D2C20A0C40400A475AD /* skate.jpg */,
 				7065258C209CD23B004EB29D /* Assets.xcassets */,
 				7065258E209CD23B004EB29D /* LaunchScreen.storyboard */,
 				70652591209CD23B004EB29D /* Info.plist */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				70925D2D20A0C40400A475AD /* skate.jpg in Resources */,
 				70652590209CD23B004EB29D /* LaunchScreen.storyboard in Resources */,
 				7065258D209CD23B004EB29D /* Assets.xcassets in Resources */,
 				7065258B209CD23B004EB29D /* Main.storyboard in Resources */,
@@ -301,6 +305,7 @@
 				70652596209CD23B004EB29D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
